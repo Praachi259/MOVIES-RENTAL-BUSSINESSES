@@ -29,7 +29,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 
 # Tools & Library Used
-[<img src="./IMAGES/mysql_logo.png" alt="myql-logo" width="100"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/mysql_logo.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
 
 # Project Result
 
