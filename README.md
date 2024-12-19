@@ -29,7 +29,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 
 # Tools & Library Used
-[<img src="./IMAGES/mysql_logo.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/mysql_logo.png" alt="myql-logo" width="100"/>](https://www.mysql.com/) &nbsp;
 
 # Project Result
 
@@ -39,7 +39,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 1. How can we extract the first name, last name, and email address of all customers to prepare a comprehensive contact list for the marketing team?
    
-   [<img src="IMAGES/email id.png" alt="myql-logo" width="100"/>](https://www.mysql.com/) &nbsp; 
+   [<img src="IMAGES/email id.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp; 
 
 3. What is the total number of movies in the inventory that are available for rent at the lowest rental rate of $0.99?
 
